@@ -759,7 +759,7 @@
 .a3x	AutoIt compiled script file
 .ftn	Fortran language source code file
 .ked	KEDIT profile and macro File
-.res	Microsoft C, C++ compiled resource file
+.res	Microsoft C/C++ compiled resource file
 .stl	C++ standard template library
 .maml	Microsoft Assistance Markup Language
 .tlh	Typelib generated C/C++ header file
