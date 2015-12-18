@@ -1,19 +1,19 @@
 # List of programming filename extensions
 
-|id	|ext	|description
-| - |:-----:|:-------------------------------------------------:|
-|0	|.aspx	|Active Server Page Extended ASP.NET script file    |  					
-|1	|.json	|JavaScript object notation file					|
-|2	|.jsp	|JAVA Server page file								|
-|5	|.ser	|Java serialized object file						|
-|6	|.htm	|HTML Hypertext Markup Language web page file		|
-|7	|.php	|PHP script or page									|
-|10	|.xml	|XML document file									|
-|12	|.atomsvc	|Atom Syndication file format					|
-|13	|.abs	|GNU C Compiler ELF/DWARF format absolute file		|
-|14	|.pl	|Perl script language source code file				|	
-|15	|.jsf	|Adobe Fireworks batch script						|
-|16	|.pou	|PLCEdit program organisation unit file				|	
-|17	|.cod	|Blackberry compiled Java code						|
-|18	|.rdf	|Resource Description Framework RSS feed file		|	
-|19	|.asp	|Active Server Page script page						|	
+id||ext||description
+| --- |---|---|
+1.|aspxA|ctive Server Page Extended ASP.NET script file      
+1.|jsonJ|avaScript object notation file
+2.|jspJ|AVA Server page file
+5.|serJ|ava serialized object file
+6.|htmH|TML Hypertext Markup Language web page file
+7.|phpP|HP script or page
+10.|xmlX|ML document file
+12.|atomsvcA|tom Syndication file format
+13.|absG|NU C Compiler ELF/DWARF format absolute file
+14.|plP|erl script language source code file
+15.|jsfA|dobe Fireworks batch script
+16.|pouP|LCEdit program organisation unit file
+17.|codB|lackberry compiled Java code
+18.|rdfR|esource Description Framework RSS feed file
+19.|aspA|ctive Server Page script page
